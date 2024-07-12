@@ -121,4 +121,5 @@ def process(automata, words):
 
 def convert_to_dfa(automata):
     """Converte um NFA num DFA."""
+    return automata
     
